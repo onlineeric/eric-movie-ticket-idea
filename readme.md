@@ -2,7 +2,7 @@
 ## Requirements
 Design movie ticket booking system  
 which can be sold to multiplex - multiple shows at different time spans  
-and also option to books tickets show for normal people
+and also option to book tickets show for public customers
 
 ## Use cases
 ### multiplex owners or cinema chains (B2B clients)
@@ -16,7 +16,7 @@ Select seats, make payment, receive eticket on email or SMS
 ### More options could be implemented (not in current scope)
 discounts code input, pre-sell snacks and drinks, family packages, membership, etc.
 ## System overview
-The system should has 2 user interfaces, one for multiplex owners and one for public customer.  
+The system should have 2 user interfaces, one for multiplex owners and one for public customer.  
 ![System overview](./images/system%20overview.png)
 ## Admin microservices overview
 For multiplex/cinema owners, the system should have the following features:
