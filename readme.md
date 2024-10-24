@@ -28,7 +28,7 @@ For multiplex/cinema owners, the system should have the following features:
 6. Booking management - manage bookings for ticket, reserve seats, cancel bookings (Show/Movie browsing Service, ticket booking Service)
 7. Dashboard - view statistics, manage reports (Admin Service)
 ### Admin microservices architecture
-![Admin microservices architecture](./images/admin%20microservices%20architecture.png)
+![Admin microservices architecture](./images/Admin%20microservices%20architecture.png)
 ## Public customer microservices overview
 For public customers, the system should have the following features:
 1. Movie browsing - browse movies, show timings, seats availability (Show/Movie browsing Service)
@@ -40,4 +40,4 @@ For public customers, the system should have the following features:
 ### Public customer microservices architecture
 ![Public customer microservices architecture](./images/Public%20users%20microservices%20architecture.png)
 ## Full microservices architecture
-![Full microservices architecture](./images/full%20microservices%20architecture.png)
+![Full microservices architecture](./images/Full%20microservices%20architecture.png)
